@@ -24,7 +24,8 @@ Download the latest installer for your OS from the [Releases Page](https://githu
 *   **macOS**: Extract `WhatsApp-Behemoth-4.0.0-x64.zip` and move the `.app` to Applications.
 
 
-👨‍💻 Architect
+👨‍💻 Architect:
+
 Lead Architect: @MrIridescent Visionary Systems Engineer specializing in autonomous automation and high-throughput communication layers.
 
 ☕ Support the Evolution
